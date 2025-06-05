@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\savag\\source\\repos\\DebtVisualizer\\DebtVisualizer.Server\\..\\debtvisualizer.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

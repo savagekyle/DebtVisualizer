@@ -1,0 +1,6 @@
+@DebtVisualizer.Server_HostAddress = http://localhost:5155
+
+GET {{DebtVisualizer.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
